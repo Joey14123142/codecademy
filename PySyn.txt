@@ -137,5 +137,7 @@ can handle multiple lists
 
 2/3
 
-    
-http://onesearch.lib.polyu.edu.hk/primo_library/libweb/action/search.do?ct=facet&fctN=facet_rtype&fctV=ebooks&rfnGrp=2&rfnGrpCounter=2&dscnt=0&frbg=&scp.scps=scope%3A(%22HKPU%22)%2Cscope%3A(HKPU_MILLENNIUM)%2Cscope%3A(HKPU_IR)%2Cscope%3A(HKPU_EXAM)&tab=library_collections&dstmp=1440343327065&srt=popularity&ct=facet&mode=Basic&dum=true&indx=1&tb=t&rfnIncGrp=1&rfnIncGrp=1&rfnIncGrp=1&rfnIncGrp=1&rfnIncGrp=1&rfnIncGrp=1&rfnIncGrp=1&rfnIncGrp=1&rfnIncGrp=1&rfnIncGrp=1&rfnIncGrp=1&rfnIncGrp=1&rfnIncGrp=1&rfnIncGrp=1&rfnIncGrp=1&rfnGrpCounter=1&mulIncFctN=facet_topic&mulIncFctN=facet_topic&mulIncFctN=facet_topic&mulIncFctN=facet_topic&mulIncFctN=facet_topic&mulIncFctN=facet_topic&mulIncFctN=facet_topic&mulIncFctN=facet_topic&mulIncFctN=facet_topic&mulIncFctN=facet_topic&mulIncFctN=facet_topic&mulIncFctN=facet_topic&mulIncFctN=facet_topic&mulIncFctN=facet_topic&mulIncFctN=facet_topic&vl(freeText0)=r%20&vid=HKPU&fctIncV=Time-series%20analysis&fctIncV=Multivariate%20analysis&fctIncV=Research%2C%20Industrial&fctIncV=Ecology&fctIncV=Research&fctIncV=R%20(Computer%20program%20language)&fctIncV=Probabilities&fctIncV=Data%20mining&fctIncV=Mathematical%20statistics&fctIncV=Electronic%20data%20processing&fctIncV=Technological%20innovations&fctIncV=Statistics&fctIncV=Social%20sciences&fctIncV=Science&fctIncV=Economics&fn=search
+for letter in “Eric”:
+	print letter,
+# comma leads to a space
+# E r i c
