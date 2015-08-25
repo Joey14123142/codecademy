@@ -2,22 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8208c215-54d6-44ec-b606-62731ca1881a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClassUp.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ExamStatistics.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitMask.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classes.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/filter.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/flipOut.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/in.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inheritance.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/instantiate.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lstComprehension.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lstSlicing.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/m.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slip+Slide.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/super.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turnOn.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PySyn.txt" afterPath="$PROJECT_DIR$/PySyn.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/representation.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/write.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes.py" afterPath="$PROJECT_DIR$/classes.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="codecademy.iws" />
@@ -46,26 +33,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="bitMask.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bitMask.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
-              <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="turnOn.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/turnOn.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="135">
-              <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="flipOut.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/flipOut.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -136,11 +103,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="classes.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="classes.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/classes.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.29540482" vertical-offset="0" max-vertical-offset="465">
-              <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="53" max-vertical-offset="570">
+              <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="representation.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/representation.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
+              <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="write.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/write.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.2297593" vertical-offset="0" max-vertical-offset="457">
+              <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -177,6 +164,8 @@
         <option value="$PROJECT_DIR$/inheritance.py" />
         <option value="$PROJECT_DIR$/m.py" />
         <option value="$PROJECT_DIR$/classes.py" />
+        <option value="$PROJECT_DIR$/representation.py" />
+        <option value="$PROJECT_DIR$/write.py" />
       </list>
     </option>
   </component>
@@ -518,7 +507,15 @@
     </option>
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/representation.py</url>
+          <line>9</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -644,8 +641,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/classes.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.29540482" vertical-offset="0" max-vertical-offset="465">
-          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="53" max-vertical-offset="570">
+          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/representation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/write.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2297593" vertical-offset="0" max-vertical-offset="457">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
           <folding />
         </state>
       </provider>
